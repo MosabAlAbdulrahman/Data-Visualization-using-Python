@@ -2,7 +2,7 @@
 Implementation of the first task of the Prodigy InfoTech Data Science Internship
 
 ## This is the implementaion of the first task of my Prodigy InfoTech Data Science Internship
-### I used Titanic dataset - the file named "Train.csv"- and implement the following :
+### I used Titanic dataset - the file named "Train.csv"- and implemented the following :
 - Importing necessary libraries
 - Loading the Dataset
 - Exploring the Data
