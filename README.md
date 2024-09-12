@@ -1,6 +1,9 @@
 # PRODIGY_DS_01
 Implementation of the first task of the Prodigy InfoTech Data Science Internship
 
+#Task Details:
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+
 ## This is the implementaion of the first task of my Prodigy InfoTech Data Science Internship
 ### I used Titanic dataset - the file named "Train.csv"- and implemented the following :
 - Importing necessary libraries
